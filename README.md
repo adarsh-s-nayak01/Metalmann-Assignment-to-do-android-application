@@ -9,10 +9,10 @@
 I have explained the whole process of how I built this android application in the report mentioned above. I have also given link to download the Android APK of the file.
 
 
-###Adarsh Subhas Nayak
-###College : PES University, Bangalore
-###SRN : PES1UG20CS620
-###Email-id : adarshsnayak2002@gmail.com
-###Phone No : +91 7795702175
+### Adarsh Subhas Nayak
+### College : PES University, Bangalore
+### SRN : PES1UG20CS620
+### Email-id : adarshsnayak2002@gmail.com
+### Phone No : +91 7795702175
 
 Thank you :)
